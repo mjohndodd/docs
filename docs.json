@@ -17,7 +17,15 @@
             "group": "Gem Offers",
             "pages": [
               "gem/offers_overview",
-              "gem/create_offers",
+              {
+                "group": "Creating offers",
+                "pages": [
+                  "gem/create_offers",
+                  "gem/create_offers_offer_custom_fields",
+                  "gem/create_offers_custom_offer_tokens",
+                  "gem/create_offers_offer_templates"
+                ]
+              },
               "gem/generate_offers",
               "gem/send_offers"
             ]
