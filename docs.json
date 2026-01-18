@@ -14,6 +14,15 @@
         "tab": "Guides",
         "groups": [
           {
+            "group": "Gem Offers",
+            "pages": [
+              "gem/offers_overview",
+              "gem/create_offers",
+              "gem/generate_offers",
+              "gem/send_offers"
+            ]
+          },
+          {
             "group": "Getting started",
             "pages": [
               "index",
